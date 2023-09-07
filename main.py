@@ -1,1 +1,1 @@
-print (hello linyx)
+print (hello LINYX)

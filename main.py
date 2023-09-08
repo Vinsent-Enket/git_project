@@ -1,3 +1,4 @@
-from funcs import  summ
+from funcs import summ, minus
 
-summ(1, 2)
+print(summ(1, 2))
+print(minus(1, 33))
